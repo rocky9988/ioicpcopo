@@ -1,0 +1,19 @@
+{
+  "name": "iusky/iiiooopppccc",
+  "description": "hehedaaa",
+  "license": "GPL-1.0+",
+  "version":"1.1",
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "authors": [
+    {
+      "name": "iiusky",
+      "email": "sky@03sec.com",
+      "homepage": "http://www.03sec.com"
+    }
+  ],
+  "autoload": {
+    "classmap": ["Classes/Phpdocx/"]
+  }
+}
